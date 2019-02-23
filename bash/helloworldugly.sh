@@ -5,7 +5,7 @@
 
 # This is a silly way of creating the output text......
 
-echo -n "helb wold" |
+echo -n "helo wold" |
 sed -e "s/b/o/g" -e "s/l/ll/" -e "s/ol/orl/" |
 tr "h" "H"|
 tr "w" "W"|

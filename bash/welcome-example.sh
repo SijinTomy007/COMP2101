@@ -14,7 +14,7 @@
 ###############
 title="Overlord"
 myname="sijin"
-hostname=$(hostname)
+ho6stname=$(hostname)
 NOW=$(date +"%H-%M-%P")
 day=$(date +"%A")
 
